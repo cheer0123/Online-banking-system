@@ -1,4 +1,31 @@
 # Online-banking-system
+Accounts
+-	Primary
+-	View Transaction list
+-	Search Transaction
+-	Savings
+-	View Transaction list
+-	Search Transaction
 
-Designed and developed User-Front through Spring Boot. 
-User-Front includes such modules as User Signup/Login, Account, Transfer, Appointment, Transaction and User Profile.
+Transfer
+-	Between Accounts
+-	Person-To-Person
+-	Add/Edit Recipients
+
+Transaction
+-	Deposit
+-	Withdrawal
+
+Menu
+-	Profile Settings
+-	Schedule Appointment
+
+Registration
+
+Admin
+-	View user
+-	View user transaction list
+-	Enable/Disable user account
+-	View Appointment
+-	Confirm appointment
+
