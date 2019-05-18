@@ -29,3 +29,4 @@ Admin
 -	View Appointment
 -	Confirm appointment
 
+![alt text](http://url/to/img.png)
