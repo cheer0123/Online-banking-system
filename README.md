@@ -29,5 +29,4 @@ Admin
 -	View Appointment
 -	Confirm appointment
 
-# Online-banking-system
 ![alt text](https://github.com/yimingzhao0123/Online-banking-system/blob/master/Online%20Banking%20System%20High%20Level.png)
